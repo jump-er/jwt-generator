@@ -1,0 +1,14 @@
+{
+  "data": {
+    "permissionId": 0
+  },
+  "gates": [
+    "example-gate"
+  ],
+  "permissions": {
+    "methods": [
+      "exampleMethod1",
+      "exampleMethod2"
+    ]
+  }
+}
